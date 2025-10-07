@@ -1,4 +1,9 @@
-#Grocery Delivery Application using Angular https://grocery-delivery-c2z4v79gt-nazeeha-farvins-projects.vercel.app/shops
+# 🛒 Grocery Delivery Web App https://grocery-delivery-c2z4v79gt-nazeeha-farvins-projects.vercel.app/shops
+
+A simple grocery delivery web application built using **Angular**.  
+This app allows users to browse groceries, add them to their cart, and place orders easily.  
+Designed to be fast, user-friendly, and responsive.
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.4.
 
